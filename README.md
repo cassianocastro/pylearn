@@ -1,3 +1,5 @@
-# Py
+# pylearn
 
-Os arquivos neste repositório foram criados com a finalidade de exercitar a lógica de programação e aprender a sintaxe básica de Python.
+## Description
+
+The files in this repository has created to learn the basic syntax of Python 3.
